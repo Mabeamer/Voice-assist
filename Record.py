@@ -9,7 +9,7 @@ seconds = 3  # Duration of recording
 
 
 
-aai.settings.api_key = "get ur own api key!!!"
+aai.settings.api_key = ""
 transcriber = aai.Transcriber()
 
 #create menu to record audio before recording
